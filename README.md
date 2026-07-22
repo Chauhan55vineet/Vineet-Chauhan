@@ -106,4 +106,21 @@ Include your ER Diagram here.
 - Footwear customers had the highest repeat purchase rate.
 - Email promotions produced better retention than blanket discounts.
 
-- 
+- # Project Title
+
+## Group Members
+| Name | Role |
+|------|------|
+| Pyush 1 | SQL Analysis |
+| Vineet Chauhan 2 | Data Cleaning |
+| Jimmy 3 | Database Design |
+
+## Author
+
+Vineet Chauhan
+
+LinkedIn:
+[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vineet-chauhan-99b9a0397/)
+
+GitHub:
+[https://github.com/yourusername](https://github.com/Chauhan55vineet/Vineet-Chauhan)
